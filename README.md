@@ -18,6 +18,6 @@ This are the websites created on the ["Advanced CSS Course"](https://www.udemy.c
 The original webpages created by the teacher can be seen in the following links:
   - [Natours](https://natours.netlify.com) - advanced CSS, Sass and responsive design;</li>
   - [Trillo](http://trillo.netlify.com/) - flexbox;
-  - [Nexter](https://nexter.netlify.com/) - CSS Grid;
+  - [Nexter](https://nexter.netlify.com/) - CSS Grid.
 
-The original source code of the websites can be found [here](https://github.com/jonasschmedtmann/advanced-css-course)
+The original source code of the websites can be found [here](https://github.com/jonasschmedtmann/advanced-css-course).
